@@ -37,6 +37,9 @@ export default function Home() {
             <h3>Examples &rarr;</h3>
             <p>Discover and deploy boilerplate example Next.js projects.</p>
           </a>
+          <a href="blankpage.html" className={styles.card}>
+            <h3>Processing Assignment 0.3 &rarr;</h3>
+          </a>
 
           <a
             href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
