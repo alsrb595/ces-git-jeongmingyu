@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
       <h1 className="title">
-        Hello ~~~! 정민규님! <Link href="/posts/first-post">this page!</Link>
+        Hello ~~~! 정민규님! <Link href="/posts/ball_bouncing_new 복사본.pde">this page!</Link>
       </h1>
 
         <p className={styles.description}>
@@ -20,6 +20,10 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
+          <a href="http://127.0.0.1:5500/ball.html" className={styles.card}>
+            <h3>Assignment 0.3 &rarr;</h3>
+            <p>If click here, can see the ball-bouncing process</p>
+          </a>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h3>Documentation &rarr;</h3>
             <p>Find in-depth information about Next.js features and API.</p>
