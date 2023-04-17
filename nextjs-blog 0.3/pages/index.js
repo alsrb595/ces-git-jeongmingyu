@@ -20,7 +20,7 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="http://127.0.0.1:5500/ball.html" className={styles.card}>
+          <a href="https://alsrb595.github.io/" className={styles.card}>
             <h3>Assignment 0.3 &rarr;</h3>
             <p>If click here, can see the ball-bouncing process</p>
           </a>
